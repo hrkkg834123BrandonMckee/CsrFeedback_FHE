@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\utils-fragments-provider\sms-secure\validator-static.rs
+// Generated at: 2025-10-10T07:25:43.257Z
